@@ -19,3 +19,6 @@ sudo apt purge libraspberrypi-doc modemmanager
 
 # cleanup
 sudo apt --purge -y autoremove
+
+
+# https://unix.stackexchange.com/questions/575226/create-a-captive-portal-with-network-manager-nmcli
